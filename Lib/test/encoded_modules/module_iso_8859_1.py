@@ -1,5 +1,5 @@
 # test iso-8859-1 encoding
 # -*- encoding: iso-8859-1 -*-
-test = ("Les hommes ont oublié cette vérité, "
+test = ("Les hommes ont oubliÃ© cette vÃ©ritÃ©, "
         "dit le renard. Mais tu ne dois pas l'oublier. Tu deviens "
-        "responsable pour toujours de ce que tu as apprivoisé.")
+        "responsable pour toujours de ce que tu as apprivoisÃ©.")
